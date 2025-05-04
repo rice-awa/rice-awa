@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rice-awa
 - 👀 I’m interested in coding, minecraft
 - 🌱 I’m currently learning LLMs
-- 📫 How to reach me at <issues@rice-awa.top>
+- 📫 How to reach me: <issues@rice-awa.top>
 - ⚡ Fun fact: ...
 
 <!---
