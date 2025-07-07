@@ -4,8 +4,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rice-awa&color=126da1&abbreviated=true&style=for-the-badge)
 
-- 👀 I’m interested in coding, minecraft
-- 🌱 I’m currently learning LLMs
+### 👀 I’m interested in coding, minecraft
+### 🌱 I’m currently learning LLMs
 ### 📫 How to reach me: <issues@rice-awa.top>
 ### ⚡ Fun fact: ...
 
